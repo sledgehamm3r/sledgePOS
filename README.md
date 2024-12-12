@@ -98,6 +98,19 @@ After installation, you can use sledgePOS to manage products and sales:
 
 <p align="right">(<a href="#readme-top">Back to Top</a>)</p>
 
+
+## Demo
+
+Adminlogin: 
+Username: admin
+Password: hallo123
+
+Cashierlogin:
+Username: cashier
+Password: hallo123
+
+<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+
 <!-- ROADMAP -->
 ## Roadmap
 
